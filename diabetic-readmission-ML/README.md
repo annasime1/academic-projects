@@ -53,7 +53,7 @@ Interpretability analysis highlighted **prior admissions, discharge disposition,
 
 ## Report
 The full report with detailed methodology, experiments, and discussion is available here:  
-👉 [Read the full report](./docs/SLHD.pdf)
+👉 [Read the full report](./docs/report.pdf)
 
 ---
 
