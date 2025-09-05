@@ -51,7 +51,8 @@ The goal is to develop robust models for medical diagnostics, starting from a **
 ---
 
 ## Further Details
-For the complete methodology, experiments, and results, please refer to the **full project report** here: ([full project report] (https://github.com/annasime1/academic-projects/blob/main/Blood-samples-classification/docs/report.pdf)).
+For the complete methodology, experiments, and results, please refer to the [full project report](https://github.com/annasime1/academic-projects/blob/main/Blood-samples-classification/docs/report.pdf).
+
 
 
 
