@@ -26,4 +26,4 @@ The solution is based on the **U-Net architecture**, enhanced with **Atrous Spat
 ---
 
 ## Further Details
-For the complete methodology, experiments, and results, please refer to the **full project report** here: [full project report](https://github.com/annasime1/academic_projects/Mars-terrain-segmentation/docs/report.pdf).
+For the complete methodology, experiments, and results, please refer to the **full project report** here: [full project report](https://github.com/annasime1/academic-projects/blob/main/Mars-terrain-segmentation/docs/report.pdf).
